@@ -1,0 +1,5 @@
+apiKey= 42db268465139ed2dac8d89cac7c999b
+
+Secret:
+aff053b4e6627776
+https://www.flickr.com/services/rest/?method=flickr.test.echo&name=value
